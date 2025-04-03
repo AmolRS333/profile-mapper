@@ -70,7 +70,7 @@ npm install
 
 ```bash
 cd backend
-npm start
+nodemon server.js
 ```
 
 2. Start the frontend development server
